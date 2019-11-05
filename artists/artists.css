@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    height: 100vh;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr1fr;
+}
+
+.one{
+    background-color: orange;
+}
+
+.two{
+    background-color: orangered;
+}
+.three{
+    background-color: hotpink;
+}
+.four{
+    background-color: royalblue;
+}
+.five{   
+    background-color: khaki;
+}
+.six{
+    background-color: white;
+}
+.seven{
+    background-color: wheat;
+}
+.eight{
+    background-color: floralwhite;
+}
+.nine{
+    background-color: sandybrown;
+}
+.ten{
+    background-color:bisque ;
+}
+.eleven{
+    background-color: violet;
+}
+.twelve{
+    background-color: violet;
+}
+.thirteen{
+    background-color: darkblue;
+}
+.fouteen{
+    background-color: salmon;
+}
+.fifteen{
+    background-color: red;
+}
+.sixteen{
+    background-color: rosybrown;
+}
+.seventeen{
+    background-color: rebeccapurple;
+}
+.eighteen{
+    background-color: powderblue;
+}
+.nineteen{
+    background-color: plum;
+}
+.twenty{
+    background-color: olivedrab;
+}

@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    height: 100vh;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    grid-template-rows: 1fr 1fr ;
+}
+
+
+.one{
+    background-color: honeydew;
+}
+.two{
+    background-color: hotpink;
+}
+
+.three{
+    background-color: indigo;
+}
+
+.four{
+    background-color: khaki;
+}
+
+.five{
+    background-color: lawngreen;
+}
+
+.six{
+    background-color: lightpink;
+}
+
+.seven{
+    background-color: magenta;
+}
+
+.eight{
+    background-color: mediumslateblue;
+}
